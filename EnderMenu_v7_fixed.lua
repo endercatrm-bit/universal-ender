@@ -1,4 +1,4 @@
-﻿--[[
+--[[
     ENDER MENU v7.0 - ULTIMATE EDITION
     25 categories, 80+ features
     Improved UI, popup windows, config save/load
